@@ -1,7 +1,7 @@
 <h1>Hi, I'm Santiago</h1>
 
 # 💫 About Me:
-<br>I’m systems engineering student at Universidad Metroplitana in Caracas, Venezuela<br>I'm currently learning about: machine learning<br>
+<br>I’m a systems engineering student at Universidad Metroplitana in Caracas, Venezuela<br>I'm currently learning about: machine learning<br>
 
 
 ## 🌐 Socials:
