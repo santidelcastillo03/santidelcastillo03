@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a systems engineering student at Universidad Metroplitana in Caracas, Venezuela<br>I'm currently learning about: Machine learning and Swift
+I’m a systems engineering student at Universidad Metroplitana in Caracas, Venezuela<br>I'm currently learning about: Machine learning and Swift
 
 
 ## 🌐 Socials:
